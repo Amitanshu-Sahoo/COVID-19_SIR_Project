@@ -38,7 +38,7 @@ struct node{
                                                                      This mean that at the mentioned time the node will get infected and will be removed from the susceptible list and put in the infected list .
                                                                      Until it comes to priority in the queue it remains as susceptible transmit node in the queue.
 
-    3. Nodes with Infected status and event/action as transmit :- These nodes are made for the people in graph once their Susceptible/Transmit or Infected/Transmit node come to priority in the queue
+    3. Nodes with Infected status and event/action as recover :- These nodes are made for the people in graph once their Susceptible/Transmit or Infected/Transmit node come to priority in the queue
                                                                   The nodes stores the time when the person will recover after getting infected .
 */
 
